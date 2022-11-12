@@ -1,5 +1,7 @@
 # How to - Deep Learning Fashion
 
+[![NPM](https://img.shields.io/github/license/tvlemes/how-to-deep-learning-fashion)](https://github.com/tvlemes/how-to-deep-learning-fashion/blob/main/license)
+
 Este <i>How to</i> tem como objetivo ter uma referência para classificar e medir a acurácia de imagens utilizando a 
 biblioteca <i>KERAS</i> com <i>MLPClassifier</i> com figuras de tons de cinza da mesma.
 
